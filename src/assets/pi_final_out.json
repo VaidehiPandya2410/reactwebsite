@@ -1,0 +1,9 @@
+[{"name": "Positive", "value": 60445, "group": "A1", "groupVis" : "Group A"},
+     {"name": "Negative", "value": 39433, "group": "A2", "groupVis" : "Group A"},
+     {"name": "Neutral", "value": 72954, "group": "A3", "groupVis" : "Group A"},
+     {"name": "Positive", "value": 66733, "group": "B1", "groupVis" : "Group B"},
+     {"name": "Negative", "value": 40219, "group": "B2", "groupVis" : "Group B"},
+     {"name": "Neutral", "value": 55400, "group": "B3", "groupVis" : "Group B"},
+     {"name": "Positive", "value": 74498, "group": "C1", "groupVis" : "Group C"},
+     {"name": "Negative", "value": 39302, "group": "C2", "groupVis" : "Group C"},
+     {"name": "Neutral", "value": 45288, "group": "C3", "groupVis" : "Group C"}]
