@@ -98,7 +98,7 @@ export default class RechartPie_two extends PureComponent {
       <div>
         <div className='w-full h-60 bg-white rounded-lg shadow-lg flex mt-4 transform hover:scale-105 transition ease-in-out duration-500'>
           <p className='text-center text-blue-800 font-openSans font-bold m-auto pl-16 -mr-16'>
-            Sentiment Distribution of Tweets
+            Sentiment Distribution of discussed Tweets
           </p>
           <ResponsiveContainer width='100%' height='100%' className='relative'>
             <PieChart width={400} height={400}>

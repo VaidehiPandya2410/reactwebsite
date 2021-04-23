@@ -19,7 +19,6 @@ const data = [
 ];
 
 export default class RechartScatter extends PureComponent {
-  static demoUrl = 'https://codesandbox.io/s/simple-line-chart-kec3v';
 
   render() {
     return (

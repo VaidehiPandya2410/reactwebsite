@@ -13,7 +13,7 @@ export default class SunburstChart extends Component {
   render() {
 
     let options = {
-      title: {text: "Topics per Group"},
+      title: {text: "Sunburst chart of trending topics according to 3 groups"},
       series: [
         {
           type: "sunburst",

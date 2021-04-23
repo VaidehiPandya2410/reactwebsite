@@ -1,5 +1,6 @@
 {
   "name": "sentiment_analysis",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,6 +21,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",

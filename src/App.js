@@ -16,15 +16,26 @@ function App() {
 
       <div className='mt-20 bg-gray-100  h-4/5 w-full flex justify-evenly mr-0'>
         <RechartLine />
-        <div className='flex flex-col justify-between h-4/5 w-6/12 -mt-2'>
-          <RechartPie_one />
+
+        
+        <div className="bg-gray-100 flex w-10/12 h-11/12 mx-auto mt-10 mb-10 justify-between ">
+          
           <RechartPie_two />
         </div>
       </div>
 
       <div className="bg-gray-100 flex w-10/12 h-11/12 mx-auto mt-10 mb-10 justify-between ">
         <SunburstChart/>
+        
       </div>
+
+
+      <div className="bg-gray-100 flex w-10/12 h-11/12 mx-auto mt-10 mb-10 justify-between ">
+      <RechartPie_one />      
+    </div>
+
+
+
 
       <div className='bg-gray-100 py-4 h-4/5 w-4/5 mx-auto mb-16'>
         <RechartPie_final />
